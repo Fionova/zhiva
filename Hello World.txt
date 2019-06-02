@@ -1,4 +1,4 @@
 print"Hello World!;"
 print "everybody;"
 print("button;")
-print("Рад тебя видеть;")
+print("Привет мой дорогой друг;")
