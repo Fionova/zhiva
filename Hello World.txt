@@ -1,3 +1,4 @@
 print"Hello World!;"
 print "everybody;"
 print("button;")
+print("Рад тебя видеть;")
